@@ -1,0 +1,10 @@
+  Address         Publics by Value
+
+ 0001:00000400       _Z17_InitCodePtrsProcPP13VICodePtrsRec
+ 0001:0000002C       codeBlob
+ 0001:00000050       LJTI1
+ 0001:00000338       __ZL9_InitProcP8DSHeader
+ 0001:00000370       _CodeDebugProc
+ 0001:000003C0       _CodeErrHandlingProc
+ 0001:00000080       _ZL8_RunProcP8DSHeaderP8QElementl
+ 0001:00000400       _Z17_InitCodePtrsProcPP13VICodePtrsRec
